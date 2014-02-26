@@ -16,7 +16,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'http://NYUOGS.github.io');
+define('DB_NAME', 'http://NYUOGS.github.io/intranet');
 
 /** MySQL database username */
 define('DB_USER', 'NYUOGS');
